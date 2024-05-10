@@ -11,7 +11,8 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "next": "14.2.3",
+    "adison-offerwall-webview-sdk": "0.9.10-beta3"
   },
   "devDependencies": {
     "typescript": "^5",
